@@ -1,4 +1,4 @@
-# About Gosciniec przy stawie
+# Gosciniec przy stawie
 
 Website built completely from scratch, without using any kind of frameworks or libraries.
 Technology used :
